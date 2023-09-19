@@ -1,11 +1,11 @@
 # Gods of Aumin Table Top RPG
 
 ## Purpose 
-Table Top RPG Game
+Table Top RPG Game that allows player characters to obtain vast abilities to eventually progress to become Gods. Gods of Aumin will be 
+available in a hardback cover and ebook version.
 
 ## Built With
-* Express
-* Node
+* React
 
 ## Table of Contents
 * [Screenshot](#screenshot)
@@ -19,7 +19,7 @@ Table Top RPG Game
 
 ## Deployment 
 
-The app will be accessible from a domain name.
+The app will be accessible from https://www.godsofaumin.com "Gods of Aumin"
 
 ## License 
 Private.
