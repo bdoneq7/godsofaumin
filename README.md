@@ -1,30 +1,41 @@
-# Gods of Aumin Table Top RPG
+# Brian Portfolio
 
 ## Purpose 
-Table Top RPG Game that allows player characters to obtain vast abilities to eventually progress to become Gods. Gods of Aumin core rules will be available in a hardback cover and ebook version. Further Gods of Aumin supplements will be subsequently released to provide more details about the Gods of Aumin Universe.
+To build a portfolio that potential employers can use to review my work samples and download my resume.
 
 ## Built With
+* JavaScript
 * React
 
 ## Table of Contents
 * [Screenshot](#screenshot)
+* [Installation](#installation)
 * [Deployment](#deployment)
 * [License](#license)
 * [Contributing](#contributing)
 * [Questions](#questions)
 
 ## Screenshot
-![Screenshot](https://github.com/bdoneq7/godsofaumin/blob/main/assets/images/screenshot.PNG?raw=true "Screenshot")
+![Alt Brian Done React Portfolio Screenshot](https://github.com/bdoneq7/brian-react-portfolio/blob/main/assets/images/screenshot.PNG?raw=true "Brian Done React Portfolio Screenshot")
+
+## Installation 
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+
 
 ## Deployment 
 
-The app will be accessible from https://www.godsofaumin.com
+https://bdoneq7.github.io/brian-react-portfolio/
 
 ## License 
-Private.
+Using the MIT License.
 
 ## Contributing 
-This app has been developed solely by Brian Done.
+This React Portfolio was created by Brian Done. 
 
 ## Questions
 Please direct questions to Brian Done at briguy2078@gmail.com. 
