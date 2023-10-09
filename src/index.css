@@ -5,6 +5,7 @@
   --lightpurple-color: #7c4f91;
   --purple-color: #572175;
   --darkestpurple-color: #350a5b;
+  --black-color: #000000;
 }
 
 * {
@@ -21,7 +22,7 @@ a:link, a:visited {
 /* Header Styles */
 header {
   padding: 20px 35px;
-  background-color: var(--darkestpurple-color);
+  background-color: var(--black-color);
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -95,7 +96,7 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: .1em;
-  background: var(--purple-color);
+  background: var(--darkestpurple-color);
   color: var(--white-color);
   font-family: 'Poiret One', cursive;             
   font-family: Helvetica, Arial, sans-serif;
