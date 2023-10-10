@@ -4,7 +4,6 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import About from "./components/About";
 import Buy from "./components/Buy";
-import Contact from "./components/Contact";
 import Resume from "./components/Resume";
 import Resources from "./components/Resources";
 
