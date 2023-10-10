@@ -211,7 +211,7 @@ li {
 }
 
 nav {
-  background-color: var(--darkestpurple-color);
+  background-color: var(--black-color);
 }
 
 nav a:hover {
