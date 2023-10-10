@@ -6,6 +6,7 @@ import About from "./components/About";
 import Buy from "./components/Buy";
 import Contact from "./components/Contact";
 import Resume from "./components/Resume";
+import Resources from "./components/Resources";
 
 function App() {
 	const [currentTab, setCurrentTab] = useState("about");
@@ -16,8 +17,8 @@ function App() {
 				return <About />;
 			case "portfolio":
 				return <Buy />;
-			case "contact":
-				return <Contact />;
+			case "resources":
+				return <Resources />;
 			case "resume":
 				return <Resume />;
 			default:
