@@ -9,13 +9,13 @@ function Nav(props) {
 				<li className={currentTab === "about" ? "mx-2 navActive" : "mx-2"}>
 					<span onClick={() => setCurrentTab("about")}>About</span>
 				</li>
-				<li className={currentTab === "portfolio" ? "mx-2 navActive" : "mx-2"}>
-					<span onClick={() => setCurrentTab("portfolio")}>Buy Now</span>
+				<li className={currentTab === "buy" ? "mx-2 navActive" : "mx-2"}>
+					<span onClick={() => setCurrentTab("buy")}>Buy Now</span>
+				</li>
+				<li className={currentTab === "resources" ? "mx-2 navActive" : "mx-2"}>
+					<span onClick={() => setCurrentTab("resources")}>Resources</span>
 				</li>
 				<li className={currentTab === "contact" ? "mx-2 navActive" : "mx-2"}>
-					<span onClick={() => setCurrentTab("contact")}>Resources</span>
-				</li>
-				<li className={currentTab === "resume" ? "mx-2 navActive" : "mx-2"}>
 					<span onClick={() => setCurrentTab("resume")}>Contact</span>
 				</li>
 			</ul>
