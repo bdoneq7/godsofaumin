@@ -14,7 +14,7 @@ function App() {
 		switch (currentTab) {
 			case "about":
 				return <About />;
-			case "portfolio":
+			case "buy":
 				return <Buy />;
 			case "resources":
 				return <Resources />;
