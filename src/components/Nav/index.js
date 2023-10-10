@@ -16,7 +16,7 @@ function Nav(props) {
 					<span onClick={() => setCurrentTab("resources")}>Resources</span>
 				</li>
 				<li className={currentTab === "contact" ? "mx-2 navActive" : "mx-2"}>
-					<span onClick={() => setCurrentTab("resume")}>Contact</span>
+					<span onClick={() => setCurrentTab("contact")}>Contact</span>
 				</li>
 			</ul>
 		</nav>

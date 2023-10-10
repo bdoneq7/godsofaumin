@@ -4,8 +4,8 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import About from "./components/About";
 import Buy from "./components/Buy";
-import Resume from "./components/Resume";
 import Resources from "./components/Resources";
+import Contact from "./components/Contact";
 
 function App() {
 	const [currentTab, setCurrentTab] = useState("about");
@@ -18,8 +18,8 @@ function App() {
 				return <Buy />;
 			case "resources":
 				return <Resources />;
-			case "resume":
-				return <Resume />;
+			case "contact":
+				return <Contact />;
 			default:
 				return null;
 		}
